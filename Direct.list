@@ -23,6 +23,33 @@ DOMAIN-SUFFIX,0033cas.com
 DOMAIN-SUFFIX,asyncdata.net
 DOMAIN-SUFFIX,2akribis.com
 DOMAIN-SUFFIX,gptacg.top
+#自用小众网站和自建的项目、网站、工具
+DOMAIN-SUFFIX,dpdns.org
+DOMAIN-SUFFIX,micwebsite.dpdns.org
+DOMAIN-SUFFIX,micwuv.dpdns.org
+DOMAIN-SUFFIX,michaelw.dpdns.org
+DOMAIN-SUFFIX,net.cn
+DOMAIN-SUFFIX,citv.cn
+DOMAIN-SUFFIX,006.mom
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,ipyingshe.com
+DOMAIN-SUFFIX,xiaosajk.top
+DOMAIN-SUFFIX,zhenzanyoupin2.com
+DOMAIN-SUFFIX,d-zan.net
+DOMAIN-SUFFIX,freecloud.ltd
+DOMAIN-SUFFIX,run.claw.cloud
+DOMAIN-SUFFIX,lianbangyizhan.com
+DOMAIN-SUFFIX,cloudflare-cn.com
+DOMAIN-SUFFIX,clawcloudrun.com
+DOMAIN-SUFFIX,digitalplat.org
+DOMAIN-SUFFIX,thanju.com
+DOMAIN-SUFFIX,subaibai.com
+DOMAIN-SUFFIX,5.movie
+DOMAIN-SUFFIX,waipian13.com
+DOMAIN-SUFFIX,czzy77.com
+DOMAIN-SUFFIX,zxzjys.com
+DOMAIN-SUFFIX,novipnoad.net
+DOMAIN-SUFFIX,100ycdn.com
 
 # 快猫    
 DOMAIN-SUFFIX,quickcht3.club
