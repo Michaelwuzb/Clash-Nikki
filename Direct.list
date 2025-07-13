@@ -23,12 +23,15 @@ DOMAIN-SUFFIX,0033cas.com
 DOMAIN-SUFFIX,asyncdata.net
 DOMAIN-SUFFIX,2akribis.com
 DOMAIN-SUFFIX,gptacg.top
+
 #自用小众网站和自建的项目、网站、工具
+
 DOMAIN-SUFFIX,dpdns.org
 DOMAIN-SUFFIX,sakuyavlog.dpdns.org
 DOMAIN-SUFFIX,micwebsite.dpdns.org
 DOMAIN-SUFFIX,micwuv.dpdns.org
 DOMAIN-SUFFIX,michaelw.dpdns.org
+DOMAIN-SUFFIX,006.mom
 DOMAIN-SUFFIX,baomi.org.cn
 DOMAIN-SUFFIX,aa6666.com
 DOMAIN-SUFFIX,henbi.com
@@ -36,7 +39,6 @@ DOMAIN-SUFFIX,h12345.com
 DOMAIN-SUFFIX,chinaz.com
 DOMAIN-SUFFIX,kachayv.cn
 DOMAIN-SUFFIX,ssjjss.com
-DOMAIN-SUFFIX,citv.cn
 DOMAIN-SUFFIX,citv.cn
 DOMAIN-SUFFIX,net.cn
 DOMAIN-SUFFIX,githubusercontent.com
