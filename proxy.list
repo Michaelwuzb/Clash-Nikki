@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,qichiyu.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,dpdns.org
 
 
 # 代理补充列表(测试自己维护)
