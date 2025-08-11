@@ -1,5 +1,9 @@
   #Fake-Ip-Filter下需要直接IP和小众网站的真实IP
 DOMAIN-SUFFIX,micwuv.dpdns.org
+DOMAIN-SUFFIX,aa6666.com
+DOMAIN-SUFFIX,chinaz.com
+DOMAIN-SUFFIX,h12345.com
+DOMAIN-SUFFIX,zhenbi.com
 DOMAIN-SUFFIX,net.cn
 DOMAIN-SUFFIX,citv.cn
 DOMAIN-SUFFIX,xiaosajk.top
