@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
+DOMAIN-SUFFIX,gd3.top
 DOMAIN-SUFFIX,ssopen.top
 DOMAIN-SUFFIX,lmarena.ai
 DOMAIN-SUFFIX,release-assets.githubusercontent.com
