@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,courier.push.apple.com
 DOMAIN-SUFFIX,push.apple.com
 
 #自用小众网站和自建的项目、网站、工具
+DOMAIN-SUFFIX,jp.michaelw.dpdns.org  #自建节点
+DOMAIN-SUFFIX,jp6.michaelw.dpdns.org #自建节点
 DOMAIN-SUFFIX,116kp.com
 DOMAIN-SUFFIX,kssfdmj.com
 DOMAIN-SUFFIX,bestpipe.cn
